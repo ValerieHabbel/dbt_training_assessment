@@ -1,0 +1,4 @@
+sources:
+  - name: dbt_vhabbel
+    tables:
+      - name: dim_customers
